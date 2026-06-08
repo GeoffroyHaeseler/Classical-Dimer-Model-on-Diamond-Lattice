@@ -1,0 +1,1 @@
+void next(const int next_xin, const int next_yin, const int next_zin, const char next_tetrain, const int next_nin, const int next_nnew, const int next_local, int* next_xout, int* next_yout, int* next_zout, char* next_tetraout, int* next_nout);

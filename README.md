@@ -4,7 +4,7 @@ This set of files implement algorithms used to studied the Crystal of charge man
 
 
 
-### Monte Carlo Algorithm
+## Monte Carlo Algorithm
 
 
 
@@ -34,7 +34,7 @@ The two subfolders contain scripts to launch multiple code instances on differen
 
 
 
-##### NSP
+### NSP
 
 
 
@@ -64,7 +64,7 @@ Before using this folder:
 
 
 
-##### OrderParameter
+### OrderParameter
 
 
 
@@ -94,7 +94,7 @@ Before using this folder:
 
 
 
-### Husimi Tree
+## Husimi Tree
 
 
 
@@ -116,7 +116,7 @@ The folder Probing Critical Line show how to use these functions.
 
 
 
-##### Probing Critical Line
+### Probing Critical Line
 
 
 
